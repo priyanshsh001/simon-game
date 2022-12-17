@@ -1,12 +1,14 @@
 body {
   text-align: center;
   background-color: #011F3F;
+   margin: 0; height: 100%; 
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin-top: 2%;
+  margin:  2.5%;
   color: #FEF2BF;
 }
 
@@ -18,10 +20,10 @@ body {
 }
 
 .btn {
-  margin: 25px;
+  margin: 22px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: 10rem;
+  width: 10rem;
   border: 10px solid black;
   border-radius: 20%;
 }
